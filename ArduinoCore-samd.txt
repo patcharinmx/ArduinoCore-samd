@@ -1,0 +1,1 @@
+เป็น arduino core สำหรับ cpu SAMD21
